@@ -4,3 +4,5 @@
 > **git clone URL**
 
 *где URL-адрес репозитория в GitHub*
+
+Привет GH
